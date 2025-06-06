@@ -1,0 +1,22 @@
+export const cuisineList = [
+    "Abarrotes",
+    "Fruterías",
+    "Carnicerías",
+    "Pescaderías",
+    "Panaderías",
+    "Tienda naturistas ",
+    "Licorerías",
+    "Boutiques",
+    "Zapaterías",
+    "Tienda de ropa ",
+    "Tienda de accesorios ",
+    "Ferreterías",
+    "Entretenimiento",
+    "Librerías",
+    "Farmacias",
+    "Perfumerías",
+    "Cosméticos",
+    "Naturistas",
+    "Tienda para mascotas",
+    "Papelerías"
+]
